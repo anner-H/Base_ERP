@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px; /*  Unidades REM  */
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+:root{
+    /*  Paleta de Colores  */
+    --azul: #345FB4;
+    --celeste: #6789CA;
+    --negro: #313131;
+    --gris: #777777;
+    --gris-claro: #A5A5A5;
+
+    /*  Tamaño de Fuentes  */
+    --h1: 3.4rem;
+    --h3: 2rem;
+    --texto1: 1.6rem;
+    --texto2: 1.2rem;
+}
+
+    /*  Definición de Secciones  */
+    
+.background{
+    width: 100%;
+    height: auto;
+}
